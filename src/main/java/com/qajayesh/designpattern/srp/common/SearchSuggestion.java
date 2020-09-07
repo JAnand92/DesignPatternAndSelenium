@@ -16,7 +16,7 @@ public class SearchSuggestion extends AbstractComponent {
     }
 
     public void clickSuggestionByIndex(int index) {
-        this.suggestions.get(index - 1).clear();
+        this.suggestions.get(index - 1).click();
     }
 
     @Override

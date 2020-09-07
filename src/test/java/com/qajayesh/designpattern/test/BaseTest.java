@@ -19,6 +19,7 @@ public class BaseTest {
         Path path = Paths.get("resources/chromedriver.exe");
         System.setProperty("webdriver.chrome.driver", path.toString());
         this.driver = new ChromeDriver();
+        this.driver.manage().window().maximize();
     }
 
     @AfterTest

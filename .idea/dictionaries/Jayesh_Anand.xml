@@ -2,6 +2,11 @@
   <dictionary name="Jayesh Anand">
     <words>
       <w>chromedriver</w>
+      <w>geckodriver</w>
+      <w>internerexplorerdriver</w>
+      <w>oneway</w>
+      <w>paypal</w>
+      <w>safaridriver</w>
       <w>sbct</w>
     </words>
   </dictionary>
