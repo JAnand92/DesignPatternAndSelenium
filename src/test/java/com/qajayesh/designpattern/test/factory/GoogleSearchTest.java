@@ -1,8 +1,8 @@
 package com.qajayesh.designpattern.test.factory;
 
 import com.qajayesh.designpattern.test.BaseTest;
-import com.qajayesh.desingpattern.factory.GoogleFactory;
-import com.qajayesh.desingpattern.factory.GooglePage;
+import com.qajayesh.designpattern.factory.GoogleFactory;
+import com.qajayesh.designpattern.factory.GooglePage;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
